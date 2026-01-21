@@ -1,3 +1,9 @@
+# Student Record Management System
+# Name: Kosisochukwu Anamemena Great
+# Matric Number: 24/13868
+# Department: Cyber Security
+# Course: Software Engineering (SEN)
+
 from database import *
 
 def menu():
